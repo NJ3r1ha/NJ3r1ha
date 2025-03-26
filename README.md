@@ -1,9 +1,7 @@
 ### Hello and welcome! My name is Nejc. 👋
 
 I have deep interest for programming. I'm a passionate learner and aspiring programmer based in Ljubljana, Slovenia. 
-Currently, I'm diving deep into the world of Python programming 🐍 and exploring the possibilities of the Django web framework. 
-I'm also enthusiastic about Data Analysis 📈, Machine Learning 🤖 and working with Large Language Models to unlock new possibilities.
-
+Currently, I'm diving deep into the world of Python programming 🐍
 ## About Me
 
 - 💻 I'm on a mission to turn my love for coding into a rewarding career where I can tackle various challenges and solve real-world problems.
