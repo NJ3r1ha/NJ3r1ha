@@ -1,18 +1,28 @@
 ### Hello and welcome! My name is Nejc. 👋
 
-I have deep interest for programming. I'm a passionate learner and aspiring programmer based in Ljubljana, Slovenia. 
-Currently, I'm diving deep into the world of Python programming 🐍
+I'm a **CCNA-certified networking enthusiast** based in Ljubljana, Slovenia, with a strong interest in **computer networks, infrastructure, and cybersecurity operations**.
+
+Currently, I’m focused on **networking fundamentals, hands-on labs, and troubleshooting**, while using Python as a supporting skill for automation and analysis.
+
 ## About Me
 
-- 💻 I'm on a mission to turn my love for coding into a rewarding career where I can tackle various challenges and solve real-world problems.
-- 📚 In my spare time, I'm an avid reader, constantly exploring new books across different genres.
-- 🌄 I find solace in nature and love to hike, allowing me to recharge and gain new perspectives.
-- 👫 I cherish spending quality time with friends, sharing stories and making lasting memories.
-- 🎶 Music is a constant companion, providing the soundtrack to my life's journey.
-- 🌍 I'm an avid traveler who's always on the lookout for new adventures abroad. Exploring different cultures, meeting people, and savoring diverse cuisines are some of my favorite ways to gain new perspectives and enrich my life.
+- 🌐 **Cisco CCNA certified** – solid understanding of TCP/IP, VLANs, routing & switching, IPv4/IPv6, and network troubleshooting
+- 🧪 Hands-on experience with **network labs** (VLANs, inter-VLAN routing, STP, routing protocols, basic security concepts)
+- 🔍 Interested in **NOC / SOC / Junior Network or System roles**, where I can work with real infrastructure and operational environments
+- 🐍 Basic knowledge of **Python** for scripting, automation, and learning purposes
+- 🛡️ Familiar with **fundamentals of cybersecurity**, monitoring, and incident-oriented thinking
+- 📚 Lifelong learner who enjoys breaking down complex technical concepts and improving through practice
+
+## Beyond Tech
+
+- 🌄 I enjoy hiking and spending time in nature to recharge
+- 📖 I like reading and continuous self-improvement
+- 🎶 Music helps me stay focused and motivated
+- 🌍 Curious about different cultures and perspectives
 
 ## Get in Touch
 
-📫 Feel free to connect with me on [LinkedIn](www.linkedin.com/in/nejc-jeriha-a53881b4). Let's chat about coding, share book recommendations, plan a hiking adventure, or exchange travel stories and recommendations!
+📫 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/nejc-jeriha-a53881b4)
 
-Looking forward to connecting with fellow developers, travel enthusiasts, and anyone who shares my passion for learning and exploration.
+I’m always happy to connect with people interested in **networking, infrastructure, cybersecurity, or IT operations**.
+
